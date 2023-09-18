@@ -255,8 +255,4 @@ body{
     .card-description-item-score{
         margin-left: 4rem;
     }
-    
-    .summary{
-        box-shadow: 1px 10px 20px hsla(224, 30%, 27%, .3);;
-    }
 }
